@@ -78,9 +78,9 @@ Iniciamos sesión en el cliente Windows 10 con un usuario del dominio (`Marta`).
 ```cmd
 gpupdate /force
 ```
-<p align="center"> <img src="Imagenes/actualizacionGp.png" width="1000" alt="Get Printer PowerShell"> </p>
+<p align="center"> <img src="Imagenes/actualizacionGP.png" width="1000" alt="Get Printer PowerShell"> </p>
 
 
 Cerramos sesión, iniciamos y dejamos unos segundos para que el sistema cargue. 
 Y lo tenemos: 🚀🚀
-<p align="center"> <img src="Imagenes/ImpresoraDesdeCliente.png" width="1000" alt="Get Printer PowerShell"> </p>
+<p align="center"> <img src="Imagenes/impresoraDesdeCliente.png" width="1000" alt="Get Printer PowerShell"> </p>
